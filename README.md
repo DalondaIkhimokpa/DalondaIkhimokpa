@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Dalonda Ikhimokpa, MPA, CAPM, CTFL
 
-<!--
-**DalondaIkhimokpa/DalondaIkhimokpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi, I'm Dalonda Ikhimokpa, MPA, CAPM, CTFL
-
-QA Manual Tester | Software Quality Assurance Specialist | Salesforce QA | Agile PM  yourportfolio.com](https://sites.google.com/view/dalondaikhimokpa/about-me))
+Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM  🌐 [Portfolio](https://sites.google.com/view/dalondaikhimokpa/about-me)
 
 ---
 
@@ -45,16 +41,17 @@ QA Manual Tester | Software Quality Assurance Specialist | Salesforce QA | Agile
 - ✅ Salesforce Certified Associate (2025)
 - 📚 Software Testing Fundamentals (2024, Udemy)
 
-*Currently pursuing: PMP, PMP-ACP, Salesforce AI Associate*
+*Currently pursuing: PMP, PMP-ACP, CTFL-AT, Salesforce AI Associate*
 
 
 ---
 
 ## 🤝 Let’s Connect!
 
-I’m open to QA roles,project managment, or collaboration opportunities!  
+I’m open to QA roles, project managment, or collaboration opportunities! 
+
 📧 **Email**: d_ikhimokpa@yahoo.com  
-🔗 **LinkedIn**: [linkedin.com/in/[(https://www.linkedin.com/in/dalonda-ikhimokpa/)]
+🔗 **LinkedIn**: 🔗 [LinkedIn](https://www.linkedin.com/in/dalonda-ikhimokpa/)  
 
 > “Testing leads to failure, and failure leads to understanding.” – Burt Rutan
 
