@@ -3,6 +3,11 @@
 
 Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM  🌐 [Portfolio](https://sites.google.com/view/dalondaikhimokpa/about-me)
 
+## BADGES
+![ISTQB Certified](https://img.shields.io/badge/Certification-ISTQB-red)
+![Salesforce Certified](https://img.shields.io/badge/Certification-Salesforce-blue)
+![CAPM](https://img.shields.io/badge/Certification-CAPM-orange)
+![JIRA](https://img.shields.io/badge/Tool-JIRA-yellow)
 ---
 
 ## 💼 Featured QA Projects
@@ -42,6 +47,11 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 - 📚 Software Testing Fundamentals (2024, Udemy)
 
 *Currently pursuing: PMP, PMP-ACP, CTFL-AT, Salesforce AI Associate*
+
+## 🧠 ISTQB Foundation Notes
+Personal study notes and exam prep material for the ISTQB Certified Tester Foundation Level (CTFL) 4.0 exam.
+
+📘 [View My Notes on GitHub](https://github.com/dalondaikhimokpa/istqb-notes-dalonda)
 
 
 ---
