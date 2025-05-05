@@ -51,7 +51,7 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 ## 🧠 ISTQB Foundation Notes
 Personal study notes and exam prep material for the ISTQB Certified Tester Foundation Level (CTFL) 4.0 exam.
 
-📘 [View My Notes on GitHub](https://github.com/dalondaikhimokpa/istqb-notes-dalonda)
+📘 [View My Notes on GitHub][(https://dalondaikhimokpa.github.io/istqb-ctfl-notes-2025/ )]
 
 
 ---
