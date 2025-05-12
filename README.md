@@ -22,7 +22,7 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 - Applied ISTQB principles (equivalence partitioning, BVA)
 - Documented defects with screenshots and logs
 
-### 👥 [Facebook Applicaton Testing](https://github.com/yourgithub/Facebook-QA)
+### 👥 [Facebook Web Applicaton Testing](https://github.com/yourgithub/Facebook-QA)
 - Login/signup testing with Agile tracking in Trello and Jira
 - Functional testing with UAT flows and risk analysis
 - Tools: TestRail, Jira, Trello
