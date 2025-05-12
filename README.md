@@ -17,12 +17,12 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 - 25+ test cases using boundary and black-box testing
 - Tools: Trello, Excel, Google Docs
 
-### 🛒 [Amazon QA Project](https://github.com/yourgithub/Amazon-QA)
+### 🛒 [Amazon E-commerce Testing Project](https://github.com/yourgithub/Amazon-QA)
 - Created 15+ test cases across login, cart, and order flow
 - Applied ISTQB principles (equivalence partitioning, BVA)
 - Documented defects with screenshots and logs
 
-### 👥 [Facebook QA Project](https://github.com/yourgithub/Facebook-QA)
+### 👥 [Facebook Applicaton Testing](https://github.com/yourgithub/Facebook-QA)
 - Login/signup testing with Agile tracking in Trello and Jira
 - Functional testing with UAT flows and risk analysis
 - Tools: TestRail, Jira, Trello
