@@ -46,7 +46,7 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 - ✅ Salesforce Certified Associate (2025)
 - 📚 Software Testing Fundamentals (2024, Udemy)
 
-*Currently pursuing: PMP, PMP-ACP, CTFL-AT, Salesforce AI Associate*
+*Currently pursuing: CTFL-AT, Salesforce AI Associate*
 
 ## 🧠 ISTQB Foundation Notes
 Personal study notes and exam prep material for the ISTQB Certified Tester Foundation Level (CTFL) 4.0 exam.
