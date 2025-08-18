@@ -12,17 +12,17 @@ Software Quality Assurance Specialist | QA Manual Tester | Salesforce | Agile PM
 
 ## 💼 Featured QA Projects
 
-### 📦 [OpenCart E-commerce Manual Testing](https://github.com/DalondaIkhimokpa/OpenCart-Ecommerce-Manual-Testing)
+### 📦 [OpenCart E-commerce Manual Testing(Demo)](https://github.com/DalondaIkhimokpa/OpenCart-Ecommerce-Manual-Testing)
 - Manual testing of shopping, checkout, and payment flows
 - 25+ test cases using boundary and black-box testing
 - Tools: Trello, Excel, Google Docs
 
-### 🛒 [Amazon E-commerce Manual Testing](https://github.com/DalondaIkhimokpa/Amazon-Ecommerce-Manual-Testing)
+### 🛒 [Amazon E-commerce Manual Testing(Demo)](https://github.com/DalondaIkhimokpa/Amazon-Ecommerce-Manual-Testing)
 - Created 15+ test cases across login, cart, and order flow
 - Applied ISTQB principles (equivalence partitioning, BVA)
 - Documented defects with screenshots and logs
 
-### 👥 [Facebook Web Applicaton Manual Testing](https://github.com/DalondaIkhimokpa/Facebook-Login-Signup-Manual-Testing/tree/main)
+### 👥 [Facebook Web Applicaton Manual Testing(Demo)](https://github.com/DalondaIkhimokpa/Facebook-Login-Signup-Manual-Testing/tree/main)
 - Login/signup testing with Agile tracking in Trello and Jira
 - Functional testing with UAT flows and risk analysis
 - Tools: TestRail, Jira, Trello
